@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointCutDeclarations/PointCutDeclarations.iml" filepath="$PROJECT_DIR$/PointCutDeclarations/PointCutDeclarations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointCutDeclarationsV2/PointCutDeclarationsV2.iml" filepath="$PROJECT_DIR$/PointCutDeclarationsV2/PointCutDeclarationsV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-demo-aop.iml" filepath="$PROJECT_DIR$/spring-demo-aop.iml" />
     </modules>
   </component>
