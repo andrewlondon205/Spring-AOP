@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AfterReturning/AfterReturning.iml" filepath="$PROJECT_DIR$/AfterReturning/AfterReturning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfterThrowing/AfterThrowing.iml" filepath="$PROJECT_DIR$/AfterThrowing/AfterThrowing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/PointCutDeclarations/PointCutDeclarations.iml" filepath="$PROJECT_DIR$/PointCutDeclarations/PointCutDeclarations.iml" />
       <module fileurl="file://$PROJECT_DIR$/PointCutDeclarationsV2/PointCutDeclarationsV2.iml" filepath="$PROJECT_DIR$/PointCutDeclarationsV2/PointCutDeclarationsV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PointCutOrderAspects/PointCutOrderAspects.iml" filepath="$PROJECT_DIR$/PointCutOrderAspects/PointCutOrderAspects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadJoinPoint/ReadJoinPoint.iml" filepath="$PROJECT_DIR$/ReadJoinPoint/ReadJoinPoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-demo-aop.iml" filepath="$PROJECT_DIR$/spring-demo-aop.iml" />
     </modules>
   </component>
