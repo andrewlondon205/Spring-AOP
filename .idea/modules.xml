@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AfterFinally/AfterFinally.iml" filepath="$PROJECT_DIR$/AfterFinally/AfterFinally.iml" />
       <module fileurl="file://$PROJECT_DIR$/AfterReturning/AfterReturning.iml" filepath="$PROJECT_DIR$/AfterReturning/AfterReturning.iml" />
       <module fileurl="file://$PROJECT_DIR$/AfterThrowing/AfterThrowing.iml" filepath="$PROJECT_DIR$/AfterThrowing/AfterThrowing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
