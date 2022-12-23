@@ -1,7 +1,7 @@
 package com.luv2code.aopdemo.afterthrowing;
 
-import com.luv2code.aopdemo.aftereturning.dao.AccountDAO;
-import com.luv2code.aopdemo.aftereturning.dao.MembershipDAO;
+import com.luv2code.aopdemo.afterthrowing.dao.AccountDAO;
+import com.luv2code.aopdemo.afterthrowing.dao.MembershipDAO;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class MainDemoApp {

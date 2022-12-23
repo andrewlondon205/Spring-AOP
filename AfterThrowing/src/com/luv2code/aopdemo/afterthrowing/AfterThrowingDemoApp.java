@@ -1,11 +1,12 @@
-package com.luv2code.aopdemo.aftereturning;
+package com.luv2code.aopdemo.afterthrowing;
 
-import com.luv2code.aopdemo.aftereturning.dao.AccountDAO;
+
+import com.luv2code.aopdemo.afterthrowing.dao.AccountDAO;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import java.util.List;
 
-public class AfterReturningDemoApp {
+public class AfterThrowingDemoApp {
 
     public static void main(String[] args) {
         // read spring config java class
@@ -14,7 +15,14 @@ public class AfterReturningDemoApp {
         AccountDAO theAccoundDAO = context.getBean("accountDAO",AccountDAO.class);
 
         // call method to find the accounts
-        List<Account> theAccounts = theAccoundDAO.findAccounts();
+        List<Account> theAccounts = null;
+
+        try {
+            boolean tripWire = true;
+            theAccounts = theAccoundDAO.findAccounts(tripWire);
+        } catch (Exception exc) {
+            System.out.println("\n\n Main program ... caught exception: " + exc);
+        }
 
         //display the accounts
         System.out.println("\n\nMain Program: AfterReturningDemoApp");
@@ -22,6 +30,7 @@ public class AfterReturningDemoApp {
 
         System.out.println(theAccounts);
         System.out.println("\n");
+
 
         // close the context
         context.close();
