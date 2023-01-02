@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/AfterFinally/AfterFinally.iml" filepath="$PROJECT_DIR$/AfterFinally/AfterFinally.iml" />
       <module fileurl="file://$PROJECT_DIR$/AfterReturning/AfterReturning.iml" filepath="$PROJECT_DIR$/AfterReturning/AfterReturning.iml" />
       <module fileurl="file://$PROJECT_DIR$/AfterThrowing/AfterThrowing.iml" filepath="$PROJECT_DIR$/AfterThrowing/AfterThrowing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Around/Around.iml" filepath="$PROJECT_DIR$/Around/Around.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AroundWithLogger/AroundWithLogger.iml" filepath="$PROJECT_DIR$/AroundWithLogger/AroundWithLogger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/PointCutDeclarations/PointCutDeclarations.iml" filepath="$PROJECT_DIR$/PointCutDeclarations/PointCutDeclarations.iml" />
       <module fileurl="file://$PROJECT_DIR$/PointCutDeclarationsV2/PointCutDeclarationsV2.iml" filepath="$PROJECT_DIR$/PointCutDeclarationsV2/PointCutDeclarationsV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PointCutOrderAspects/PointCutOrderAspects.iml" filepath="$PROJECT_DIR$/PointCutOrderAspects/PointCutOrderAspects.iml" />
